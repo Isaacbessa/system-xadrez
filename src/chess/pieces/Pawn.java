@@ -5,6 +5,8 @@ import boardgame.Position;
 import chess.ChessMatch;
 import chess.Chesspiece;
 import chess.Color;
+//IMPLEMENTANDO AS PEÇAS (PAWN)
+
 
 public class Pawn extends Chesspiece {
 

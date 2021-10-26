@@ -5,6 +5,7 @@ import boardgame.Position;
 import chess.ChessMatch;
 import chess.Chesspiece;
 import chess.Color;
+//IMPLEMENTANDO AS PEÇAS (KNIGHT)
 
 public class King extends Chesspiece {
 

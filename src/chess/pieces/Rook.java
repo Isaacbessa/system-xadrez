@@ -4,6 +4,7 @@ import boardgame.Board;
 import boardgame.Position;
 import chess.Chesspiece;
 import chess.Color;
+//IMPLEMENTANDO AS PEÇAS (ROOK)
 
 public class Rook extends Chesspiece {
 
